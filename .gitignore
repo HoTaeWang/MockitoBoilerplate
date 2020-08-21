@@ -3,9 +3,13 @@
 .vscode
 .project
 .classpath
+.idea
+.settings
 
 # Ignore Gradle build output directory
 build
 bin
+
+
 
 
