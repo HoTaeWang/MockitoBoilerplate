@@ -9,6 +9,9 @@
 # Ignore Gradle build output directory
 build
 bin
+gradle 
+gradlew
+gradlew.bat
 
 
 
